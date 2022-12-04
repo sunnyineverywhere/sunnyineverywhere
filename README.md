@@ -1,7 +1,11 @@
-![header](https://capsule-render.vercel.app/api?type=Slice&color=FF924A&height=300&section=header&text=sunny%20Lee&fontSize=70&fontColor=FAF9F9)
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=1A4D2E&height=300&section=header&text=Sunny%20Lee's%20Github&fontColor=FAF3E3&fontSize=40&fontAlignY=40" />
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyineverywhere&layout=compact&theme=swift&card_width=300&card_height=400)](https://github.com/sunnyineverywhere/github-readme-stats)  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sunnyineverywhere&theme=swift&width=500&card_height=400)](https://github.com/sunnyineverywhere/github-readme-stats)
+<a href="https://github.com/sunnyineverywhere">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sunnyineverywhere&theme=swift&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sunnyineverywhere&theme=swift&layout=compact" />
+</a>
 
+<br />
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=sunnyleewin)](https://solved.ac/sunnyleewin)
