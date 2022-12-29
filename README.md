@@ -7,29 +7,30 @@
 &nbsp;
 <div align = center>
   <h3>🧐 Now I'm into ... </h3>
-  <img height="40em" alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
-  <img height="40em"alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
-  <img height="40em" alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> 
-  <img height="40em" alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
-  <img height="40em" alt="Amazon AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
-  <img height="40em" alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img height="30em" alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/> 
+  <img height="30em"alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
+  <img height="30em" alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> 
+  <img height="30em" alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-47A248.svg?&style=for-the-badge&logo=MongoDB&logoColor=white"/>
+  <img height="30em" alt="Amazon AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+  <img height="30em" alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
 </div>
   
 &nbsp;
 <div align = center>
   <h3>🫠 And I have experienced ... </h3>
-  <img height="40em" alt="Flutter" src ="https://img.shields.io/badge/Dart&Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> 
-  <img height="40em" alt="react.js" src ="https://img.shields.io/badge/react.js-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
-  <img height="40em" alt="Unity" src ="https://img.shields.io/badge/Unity-239120.svg?&style=for-the-badge&logo=Unity&logoColor=white"/> 
-  <img height="40em" alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white"/> 
+  <img height="30em" alt="Flutter" src ="https://img.shields.io/badge/Dart&Flutter-02569B.svg?&style=for-the-badge&logo=Flutter&logoColor=white"/> 
+  <img height="30em" alt="react.js" src ="https://img.shields.io/badge/react-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=white"/>
+  <img height="30em" alt="Unity" src ="https://img.shields.io/badge/Unity-239120.svg?&style=for-the-badge&logo=Unity&logoColor=white"/> 
+  <img height="30em" alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white"/> 
 </div>
 
 &nbsp;
 <div align = center>
   <h3>🫠 I use ... </h3>
-  <img height="40em" alt="Java" src ="https://img.shields.io/badge/Java-F8852A.svg?&style=for-the-badge"/> 
-  <img height="40em" alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-F7DF1E.svg?&style=for-the-badge"/> 
-  <img height="40em" alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge"/> 
+  <img height="30em" alt="Java" src ="https://img.shields.io/badge/Java-A7752F.svg?&style=for-the-badge"/> 
+  <img height="30em" alt="C++" src ="https://img.shields.io/badge/C++-E1587E.svg?&style=for-the-badge"/> 
+  <img height="30em" alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-EDE170.svg?&style=for-the-badge"/> 
+  <img height="30em" alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge"/> 
   
 </div>
   
