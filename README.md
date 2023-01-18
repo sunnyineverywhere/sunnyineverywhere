@@ -26,7 +26,7 @@
 
 &nbsp;
 <div align = center>
-  <h3>🫠 I use ... </h3>
+  <h3>😃 I use ... </h3>
   <img height="30em" alt="Java" src ="https://img.shields.io/badge/Java-A7752F.svg?&style=for-the-badge"/> 
   <img height="30em" alt="C++" src ="https://img.shields.io/badge/C++-E1587E.svg?&style=for-the-badge"/> 
   <img height="30em" alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-EDE170.svg?&style=for-the-badge"/> 
