@@ -1,6 +1,6 @@
 ## 👋 Hi! This is Sunny Lee's Github Page
 <div align = center>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=1A4D2E&height=300&section=header&text=Sunny%20Lee's%20Github&fontColor=FAF3E3&fontSize=40&fontAlignY=40" />
+<img src="https://capsule-render.vercel.app/api?type=Waving&color=1A4D2E&height=300&section=header&text=Sunny%20Lee's%20Github&fontColor=FAF3E3&fontSize=50&fontAlignY=40" />
 </div>
 
 ## ✨ Skills
