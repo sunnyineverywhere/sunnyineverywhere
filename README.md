@@ -33,6 +33,27 @@
   <img height="30em" alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge"/> 
   
 </div>
+
+## 💎 About Me
+
+| TYPE | DATE | TITLE | CONTENT |
+| ------- | ------- | ------- | -------|
+| Real Job | 2001.11.15 - | Pokémon Trainer | I LOVE SNOLAX, GOODRA, ROWLET
+| Education | 2020.03 - | Ewha Womans Univ | Major in Computer Science & Engineering
+| Club | 2021.03 - 2022.02 | KING(Game Develop Club) | 11th Member
+| Project | 2021.07 - 2021.08 | Cube Escape | [GitHub](https://github.com/Cube-escape/CubeEscape)
+| Project | 2021.12 | With Cat | [GitHub](https://github.com/sunnyineverywhere/MaKingJAM_With-Cat)
+| Club | 2022.03 - 2022. 12 | EFUB 2nd | Backend Developer
+| Project | 2022.06 | SW UNIV HACKERTON | Backend Developer in [Independent BaseCamp](https://github.com/independent-base/dok-rip-gi-ji)
+| Project | 2022.07 - 2022.08 | [Ewha-Weather(이상청)](https://site.ewhaweather.com) | Backend Developer in [Ewha-Weather(Github)](https://github.com/EFUB-TEAM4/backend_e-weather)
+| Project | 2022.09 - | Speaking Fridge | Mobile & Backend & DevOps(+ MLOps) Developer in [TEAM 369](https://github.com/CAPSTONE369)
+| Project | 2022.12 - | Slack Clone | Frontend & Backend Developer in [Slack Clone](https://github.com/letUShome/SLACK)
+| Project | 2023.01 - 2023.12| EFUB 3rd | President in [EFUB](https://github.com/EFUB)
+| Side Proejct | 2023.01 - | Pokedex | Developer
+| Proejct | 2023.01 - | Terastal Calculator in Pokemon  | Developer
+| Project | 2023. 01 - 2023.06 | Challenge Semester in Ewha Womans Univ | Website Develop, Make tutorial of Spring/SpringBoot/AWS
+
+
   
 ## 🔥 Status
 <div align = center>
