@@ -48,7 +48,7 @@
 | Project | 2022.07 - 2022.08 | [Ewha-Weather(이상청)](https://site.ewhaweather.com) | Backend Developer in [Ewha-Weather(Github)](https://github.com/EFUB-TEAM4/backend_e-weather)
 | Project | 2022.09 - | Speaking Fridge | Mobile & Backend & DevOps(+ MLOps) Developer in [TEAM 369](https://github.com/CAPSTONE369)
 | Project | 2022.12 - | Slack Clone | Frontend & Backend Developer in [Slack Clone](https://github.com/letUShome/SLACK)
-| Project | 2023.01 - 2023.12| EFUB 3rd | President in [EFUB](https://github.com/EFUB)
+| Club | 2023.01 - 2023.12| EFUB 3rd | President in [EFUB](https://github.com/EFUB)
 | Side Proejct | 2023.01 - | Pokedex | Developer
 | Proejct | 2023.01 - | Terastal Calculator in Pokemon  | Developer
 | Project | 2023. 01 - 2023.06 | Challenge Semester in Ewha Womans Univ | Website Develop, Make tutorial of Spring/SpringBoot/AWS
