@@ -3,12 +3,7 @@
 </div>
 
 <div align = center>
- <img src = "https://user-images.githubusercontent.com/80109963/222221155-a7584a68-cfe8-4a85-9dd8-4027ab152f45.png" / >
- <img src = "https://user-images.githubusercontent.com/80109963/222220670-4547bc25-f0f9-4578-a75e-103bd606ec1c.png" / >
- <img src = "https://user-images.githubusercontent.com/80109963/222222083-29ed1d57-32e0-461e-9314-87a255d37301.png" / >
- <img src = "https://user-images.githubusercontent.com/80109963/222222912-a48a15c0-ec2b-4e36-8d2c-bb21d99af0f8.png" / >
  <img src = "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif?raw=true" / >
- <img src = "https://user-images.githubusercontent.com/80109963/222222538-50fb2a4d-c149-48b0-8e15-869c9f562f4f.png" / >
 </div>
 
 ## ✨ Skills
