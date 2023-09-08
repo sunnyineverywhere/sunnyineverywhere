@@ -1,9 +1,13 @@
-## 👋 Hi, I'm Sunny Lee
-- Senior in Ewha Woman's University & Major in Computer Science & Engineering
 
 <div align = center>
  <img src = "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif?raw=true" / >
 </div>
+
+## 👋 Hi, I'm Sunny Lee
+- Senior in Ewha Woman's University & Major in Computer Science & Engineering
+- EFUB 2nd Backend & EFUB 3rd President
+- BOAZ 21st Data Engineering
+- Ausg 7th Member
 
 ## ✨ Skills
 &nbsp;
@@ -13,9 +17,13 @@
   <img height="30em"alt="Spring Boot" src ="https://img.shields.io/badge/Spring Boot-6DB33F.svg?&style=for-the-badge&logo=Spring Boot&logoColor=white"/> 
   <img height="30em" alt="MySQL" src ="https://img.shields.io/badge/MySQL-4479A1.svg?&style=for-the-badge&logo=MySQL&logoColor=white"/> 
   <img height="30em" alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
-  <img height="30em" alt="Amazon AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
+ 
+  <br>
+  
   <img height="30em" alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
   <img height="30em" alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
+  <img height="30em" alt="Go" src ="https://img.shields.io/badge/GO-00ADD8.svg?&style=for-the-badge&logo=Go&logoColor=white"/>
+  <img height="30em" alt="Amazon AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
 </div>
   
 &nbsp;
