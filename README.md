@@ -7,7 +7,7 @@
 - Senior in Ewha Woman's University & Major in Computer Science & Engineering
 - EFUB 2nd Backend & EFUB 3rd President
 - BOAZ 21st Data Engineering
-- Ausg 7th Member
+- AUSG 7th Member
 
 ## ✨ Skills
 &nbsp;
