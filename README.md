@@ -1,6 +1,5 @@
-<div align = center>
-<img src="https://capsule-render.vercel.app/api?type=Waving&color=1A4D2E&height=300&section=header&text=Sunny%20Lee's%20Github&fontColor=FAF3E3&fontSize=50&fontAlignY=40" />
-</div>
+## 👋 Hi, I'm Sunny Lee
+- Senior in Ewha Woman's University & Major in Computer Science & Engineering
 
 <div align = center>
  <img src = "https://github.com/PokeAPI/sprites/blob/master/sprites/pokemon/versions/generation-v/black-white/animated/143.gif?raw=true" / >
@@ -16,6 +15,7 @@
   <img height="30em" alt="Kotlin" src ="https://img.shields.io/badge/Kotlin-7F52FF.svg?&style=for-the-badge&logo=Kotlin&logoColor=white"/>
   <img height="30em" alt="Amazon AWS" src ="https://img.shields.io/badge/AWS-232F3E.svg?&style=for-the-badge&logo=Amazon AWS&logoColor=white"/>
   <img height="30em" alt="Docker" src ="https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white"/>
+  <img height="30em" alt="Kubernetes" src ="https://img.shields.io/badge/Kubernetes-326CE5.svg?&style=for-the-badge&logo=Kubernetes&logoColor=white"/>
 </div>
   
 &nbsp;
@@ -28,14 +28,6 @@
   <img height="30em" alt="NestJS" src ="https://img.shields.io/badge/NestJS-E0234E.svg?&style=for-the-badge&logo=NestJS&logoColor=white"/> 
 </div>
 
-&nbsp;
-<div align = center>
-  <h3>😃 I use ... </h3>
-  <img height="30em" alt="Java" src ="https://img.shields.io/badge/Java-A7752F.svg?&style=for-the-badge"/> 
-  <img height="30em" alt="C++" src ="https://img.shields.io/badge/C++-E1587E.svg?&style=for-the-badge"/> 
-  <img height="30em" alt="JavaScript" src ="https://img.shields.io/badge/JavaScript-EDE170.svg?&style=for-the-badge"/> 
-  <img height="30em" alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge"/> 
-  
 </div>
   
 ## 🔥 Status
